@@ -6,4 +6,4 @@ Pyrebase==3.0.27
 requests==2.20.0
 SQLAlchemy==1.2.14
 urllib3==1.23
-Werkzeug==0.14.1
+Werkzeug==0.15.3
